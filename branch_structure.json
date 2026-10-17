@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1337-fe-96-there-is-no-way-to-sign-in-signinmodal-is",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1337-fe-96-there-is-no-way-to-sign-in-signinmodal-is": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1337-fe-96-there-is-no-way-to-sign-in-signinmodal-is",
+    "origin"
+  ]
+}
